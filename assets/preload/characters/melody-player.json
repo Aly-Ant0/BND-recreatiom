@@ -1,0 +1,177 @@
+{
+	"camOffset": [
+		0,
+		200
+	],
+	"healthColor": "0xFF31B0D1",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		170
+	],
+	"flipX": false,
+	"spritesheet": "melody_assets",
+	"anims": [
+		{
+			"prefix": "BF HEY",
+			"offsets": [
+				-3,
+				5
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "hey",
+			"looped": false
+		},
+		{
+			"prefix": "BF hit",
+			"offsets": [
+				14,
+				18
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "hurt",
+			"looped": false
+		},
+		{
+			"prefix": "BF idle shaking",
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "scared",
+			"looped": true
+		},
+		{
+			"prefix": "boyfriend dodge",
+			"offsets": [
+				-10,
+				-16
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "dodge",
+			"looped": false
+		},
+		{
+			"prefix": "boyfriend attack",
+			"offsets": [
+				294,
+				267
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "attack",
+			"looped": false
+		},
+		{
+			"prefix": "bf pre attack",
+			"offsets": [
+				-40,
+				-40
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "pre-attack",
+			"looped": false
+		},
+		{
+			"prefix": "melody idle",
+			"offsets": [
+				5,
+				50
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY LEFT 10",
+			"offsets": [
+				75,
+				39
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY DOWN 10",
+			"offsets": [
+				71,
+				-8
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY UP 10",
+			"offsets": [
+				-7,
+				66
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY RIGHT 10",
+			"offsets": [
+				-5,
+				38
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY LEFT 1 MISS",
+			"offsets": [
+				159,
+				36
+			],
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY DOWN 1 MISS",
+			"offsets": [
+				132,
+				-1
+			],
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY UP 1 MISS",
+			"offsets": [
+				105,
+				77
+			],
+			"fps": 24,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"prefix": "MELODY RIGHT 1 MISS",
+			"offsets": [
+				54,
+				38
+			],
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"antialiasing": true,
+	"iconName": "melody",
+	"scale": 0.8
+}

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kuromi.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kuromi abajo0000" x="0" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi abajo0001" x="0" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi abajo0002" x="1352" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi abajo0003" x="1352" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi abajo0004" x="2704" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi abajo0005" x="2704" y="0" width="1352" height="1156"/>
+	<SubTexture name="kuromi arriba0000" x="4056" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi arriba0001" x="4056" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi arriba0002" x="5324" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi arriba0003" x="5324" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi arriba0004" x="6592" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi arriba0005" x="6592" y="0" width="1268" height="1382"/>
+	<SubTexture name="kuromi idle0000" x="0" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0001" x="0" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0002" x="0" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0003" x="0" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0004" x="0" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0005" x="1240" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0006" x="1240" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0007" x="2480" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0008" x="2480" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0009" x="3720" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0010" x="3720" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0011" x="4960" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0012" x="4960" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0013" x="6200" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0014" x="6200" y="1382" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0015" x="0" y="2582" width="1240" height="1200"/>
+	<SubTexture name="kuromi idle0016" x="0" y="2582" width="1240" height="1200"/>
+	<SubTexture name="kuromi left0000" x="1240" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi left0001" x="1240" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi left0002" x="1954" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi left0003" x="1954" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi left0004" x="2668" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi left0005" x="2668" y="2582" width="714" height="1406"/>
+	<SubTexture name="kuromi right0000" x="3382" y="2582" width="1017" height="1410"/>
+	<SubTexture name="kuromi right0001" x="3382" y="2582" width="1017" height="1410"/>
+	<SubTexture name="kuromi right0002" x="4399" y="2582" width="1017" height="1410"/>
+	<SubTexture name="kuromi right0003" x="4399" y="2582" width="1017" height="1410"/>
+	<SubTexture name="kuromi right0004" x="5416" y="2582" width="1017" height="1410"/>
+	<SubTexture name="kuromi right0005" x="5416" y="2582" width="1017" height="1410"/>
+</TextureAtlas>

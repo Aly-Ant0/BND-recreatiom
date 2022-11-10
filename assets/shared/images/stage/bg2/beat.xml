@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beat instancia 10000" x="0" y="0" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10001" x="3455" y="0" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10002" x="0" y="1071" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10003" x="3455" y="1071" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10004" x="0" y="2142" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10005" x="3455" y="2142" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10006" x="0" y="3213" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10007" x="3455" y="3213" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10008" x="0" y="4284" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10009" x="3455" y="4284" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10010" x="0" y="5355" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10011" x="3455" y="5355" width="3444" height="1060"/>
+	<SubTexture name="beat instancia 10012" x="0" y="6426" width="3444" height="1060"/>
+</TextureAtlas>

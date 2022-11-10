@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melody_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MELODY DOWN 10000" x="0" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 10001" x="0" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 10002" x="483" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 10003" x="483" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 10004" x="966" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 10005" x="966" y="0" width="483" height="631"/>
+	<SubTexture name="MELODY DOWN 1 MISS0000" x="1449" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0001" x="1449" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0002" x="2137" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0003" x="2825" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0004" x="3513" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0005" x="3513" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0006" x="4201" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0007" x="4201" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0008" x="4889" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0009" x="4889" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0010" x="5577" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0011" x="5577" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0012" x="6265" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0013" x="6953" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY DOWN 1 MISS0014" x="6265" y="0" width="688" height="744"/>
+	<SubTexture name="MELODY LEFT 10000" x="7641" y="0" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 10001" x="7641" y="0" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 10002" x="0" y="744" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 10003" x="0" y="744" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 10004" x="475" y="744" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 10005" x="475" y="744" width="475" height="686"/>
+	<SubTexture name="MELODY LEFT 1 MISS0000" x="950" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0001" x="950" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0002" x="1638" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0003" x="1638" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0004" x="2326" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0005" x="2326" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0006" x="3014" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0007" x="3014" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0008" x="3702" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0009" x="3702" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0010" x="4390" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0011" x="4390" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0012" x="5078" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0013" x="5766" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY LEFT 1 MISS0014" x="5078" y="744" width="688" height="742"/>
+	<SubTexture name="MELODY RIGHT 10000" x="6454" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 10001" x="6454" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 10002" x="6997" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 10003" x="6997" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 10004" x="7540" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 10005" x="7540" y="744" width="543" height="688"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0000" x="0" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0001" x="0" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0002" x="688" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0003" x="688" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0004" x="1376" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0005" x="1376" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0006" x="2064" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0007" x="2064" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0008" x="2752" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0009" x="2752" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0010" x="3440" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0011" x="3440" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0012" x="4128" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0013" x="4816" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY RIGHT 1 MISS0014" x="4816" y="1486" width="688" height="692"/>
+	<SubTexture name="MELODY UP 10000" x="5504" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 10001" x="5504" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 10002" x="5894" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 10003" x="5894" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 10004" x="6284" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 10005" x="6284" y="1486" width="390" height="724"/>
+	<SubTexture name="MELODY UP 1 MISS0000" x="6674" y="1486" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0001" x="6674" y="1486" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0002" x="7362" y="1486" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0003" x="7362" y="1486" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0004" x="0" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0005" x="0" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0006" x="688" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0007" x="688" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0008" x="1376" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0009" x="1376" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0010" x="2064" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0011" x="2064" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0012" x="2752" y="2250" width="688" height="764"/>
+	<SubTexture name="MELODY UP 1 MISS0013" x="3440" y="2250" width="688" height="764"/>
+	<SubTexture name="melody idle0000" x="4128" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0001" x="4128" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0002" x="4555" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0003" x="4555" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0004" x="4982" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0005" x="4982" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0006" x="5409" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0007" x="5409" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0008" x="5836" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0009" x="5836" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0010" x="6263" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0011" x="6263" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0012" x="6690" y="2250" width="427" height="703"/>
+	<SubTexture name="melody idle0013" x="6690" y="2250" width="427" height="703"/>
+</TextureAtlas>

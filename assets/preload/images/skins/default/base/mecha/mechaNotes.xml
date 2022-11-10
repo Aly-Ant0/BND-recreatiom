@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mechaNotes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="252" height="256"/>
+	<SubTexture name="green0000" x="352" y="0" width="252" height="255"/>
+	<SubTexture name="long note0000" x="704" y="0" width="66" height="69"/>
+	<SubTexture name="long note end0000" x="870" y="0" width="66" height="69"/>
+	<SubTexture name="purple0000" x="0" y="356" width="256" height="251"/>
+	<SubTexture name="red0000" x="356" y="356" width="256" height="252"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "death screen instancia"
+		},
+		{
+			"offsets": [
+				36,
+				-442
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "death screen loop instancia"
+		},
+		{
+			"offsets": [
+				455,
+				-395
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "death screen ok instancia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deathSprite",
+	"position": [
+		89,
+		-220
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		410,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}

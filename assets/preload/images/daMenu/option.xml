@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="option.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsOff0000" x="0" y="0" width="612" height="152"/>
+	<SubTexture name="creditsOn0000" x="0" y="163" width="615" height="154"/>
+	<SubTexture name="freeplayOff0000" x="0" y="328" width="812" height="173"/>
+	<SubTexture name="freeplayOn0000" x="0" y="512" width="797" height="155"/>
+	<SubTexture name="optionsOff0000" x="0" y="678" width="674" height="166"/>
+	<SubTexture name="optionsOn0000" x="0" y="855" width="663" height="153"/>
+	<SubTexture name="storyOff0000" x="0" y="1019" width="587" height="175"/>
+	<SubTexture name="storyOn0000" x="0" y="1205" width="563" height="151"/>
+</TextureAtlas>

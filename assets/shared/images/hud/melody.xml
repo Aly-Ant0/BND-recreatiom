@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melody.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="strella idle instancia 10000" x="0" y="0" width="407" height="309"/>
+	<SubTexture name="strella idle instancia 10001" x="418" y="0" width="407" height="309"/>
+	<SubTexture name="strella idle instancia 10002" x="836" y="0" width="406" height="309" frameX="-1" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10003" x="1253" y="0" width="406" height="309" frameX="-1" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10004" x="0" y="320" width="395" height="309" frameX="-12" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10005" x="406" y="320" width="395" height="309" frameX="-12" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10006" x="812" y="320" width="393" height="309" frameX="-14" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10007" x="1216" y="320" width="393" height="309" frameX="-14" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10008" x="1620" y="320" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10009" x="0" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10010" x="403" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10011" x="806" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10012" x="806" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10013" x="806" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10014" x="806" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10015" x="806" y="640" width="392" height="309" frameX="-15" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10016" x="1209" y="640" width="393" height="309" frameX="-14" frameY="0" frameWidth="407" frameHeight="309"/>
+	<SubTexture name="strella idle instancia 10017" x="1209" y="640" width="393" height="309" frameX="-14" frameY="0" frameWidth="407" frameHeight="309"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beat instancia 10000" x="0" y="0" width="3585" height="1078"/>
+	<SubTexture name="beat instancia 10001" x="3596" y="0" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10002" x="0" y="1089" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10003" x="3595" y="1089" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10004" x="0" y="2178" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10005" x="3595" y="2178" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10006" x="0" y="3267" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10007" x="3595" y="3267" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10008" x="0" y="4356" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10009" x="3595" y="4356" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10010" x="0" y="5445" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10011" x="3595" y="5445" width="3584" height="1078" frameX="0" frameY="0" frameWidth="3585" frameHeight="1078"/>
+	<SubTexture name="beat instancia 10012" x="0" y="6534" width="3585" height="1078"/>
+</TextureAtlas>
