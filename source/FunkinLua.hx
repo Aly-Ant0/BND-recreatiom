@@ -44,7 +44,7 @@ import Discord;
 #end
 
 #if android
-import extension-androidtools.android.Hardware;
+import androidtools.android.Hardware;
 #end
 
 using StringTools;
