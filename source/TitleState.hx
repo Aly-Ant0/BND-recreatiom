@@ -470,7 +470,7 @@ class TitleState extends MusicBeatState
 
 		if (canSelect){
 			if (controls.UI_UP_P)
-				changeItem(-1)
+				changeItem(-1);
 			if (controls.UI_DOWN_P)
 				changeItem(1);
 			if (controls.ACCEPT){
