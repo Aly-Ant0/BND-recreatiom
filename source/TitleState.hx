@@ -472,7 +472,7 @@ class TitleState extends MusicBeatState
 			if (controls.UI_UP_P)
 				changeItem(-1)
 			if (controls.UI_DOWN_P)
-				changeItem(1)
+				changeItem(1);
 			if (controls.ACCEPT){
 				switch(optionShit[curSelected])
 				{
@@ -508,24 +508,6 @@ class TitleState extends MusicBeatState
 	}
 	function initCredits(){
 		
-	}
-	
-	function changeItemCredits(){
-		if (canSelect){
-			FlxG.sound.play(Paths.sound('cancelMenu'));
-			curSelected += huh;
-	
-			if (curSelected >= menuGroup.length)
-				curSelected = 0;
-			if (curSelected < 0)
-				curSelected = cred.length - 1;
-		}
-		for (item in menuGroup.members){
-			if(item.ID == curSelected)
-				item.animation.play('on');
-			else
-				item.animation.play('off');
-		}
 	}
 
 	function changeItem(){
