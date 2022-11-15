@@ -483,7 +483,7 @@ class TitleState extends MusicBeatState
 						tv.animation.addByPrefix("tv", "Símbolo 72 instancia 1", 24, false);
 						tv.animation.play("tv");
 						tv.antialiasing = ClientPrefs.globalAntialiasing;
-						tv.cameras = [camUI]
+						tv.cameras = [camUI];
 						add(tv);
 						tv.finishCallback = function(name:String){
 							transitionShader = new ShaderFilter(new GraphicsShader("", Paths.shader('transition')));
