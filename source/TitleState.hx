@@ -12,6 +12,7 @@ import flixel.addons.display.FlxGridOverlay;
 import flixel.addons.transition.FlxTransitionSprite.GraphicTransTileDiamond;
 import flixel.addons.transition.FlxTransitionableState;
 import flixel.addons.transition.TransitionData;
+import flixel.FlxCamera;
 import haxe.Json;
 import openfl.display.Bitmap;
 import openfl.display.BitmapData;
