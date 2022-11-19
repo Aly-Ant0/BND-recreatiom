@@ -58,6 +58,11 @@ import Achievements;
 import StageData;
 import FunkinLua;
 import DialogueBoxPsych;
+import openfl.display.GraphicsShader;
+import openfl.display.Shader;
+import openfl.events.KeyboardEvent;
+import openfl.filters.BitmapFilter;
+import openfl.filters.ShaderFilter;
 
 import sys.FileSystem;
 import sys.io.File;
@@ -233,6 +238,9 @@ class PlayState extends MusicBeatState
 	var foregroundSprites:FlxTypedGroup<BGSprite>;
 
 	var bgManga:FlxSprite;
+
+	// shaders
+	var mangaShader:ShaderFilter;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -446,11 +454,16 @@ class PlayState extends MusicBeatState
 		}
 
 		switch(SONG.song.toLowerCase()){
+			case "mecha-star":
+				
 			case 'interdimensional':
 				curStage="manga";
 
-				bgManga = new FlxSprite().loadGraphic(Paths.image('stage/bg3/manga'));
+				bgManga = new FlxSprite(820, 280).loadGraphic(Paths.image('stage/bg3/manga'));
 				bgManga.antialiasing = ClientPrefs.globalAntialiasing;
+				bgManga.scrollFactor.set(1, 1);
+				bgManga.alpha = 0.0001;
+				add(bgManga);
 		}
 
 		add(gfGroup); //Needed for blammed lights
@@ -462,7 +475,11 @@ class PlayState extends MusicBeatState
 
 		switch (curStage){
 			case "manga":
-				boyfriendGroup.x = 
+				boyfriendGroup.setPosition(2300,345);
+				dadGroup.setPosition(1325,515);
+				gfGroup.kill();
+				mangaShader = new ShaderFilter(new GraphicsShader("", Paths.shader('manga')));
+				camGame.setFilters([waveShader]);
 		}
 
 		#if LUA_ALLOWED
