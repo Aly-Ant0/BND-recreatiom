@@ -511,17 +511,17 @@ class TitleState extends MusicBeatState
 		
 	}
 
-	function changeItem(){
+	function changeItem(huh:Int = 0){
 		if (canSelect){
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			curSelected += huh;
 	
-			if (curSelected >= menuGroup.length)
+			if (curSelected >= menugrp.length)
 				curSelected = 0;
 			if (curSelected < 0)
-				curSelected = menuGroup.length - 1;
+				curSelected = menugrp.length - 1;
 		}
-		for (item in menuGroup.members){
+		for (item in menugrp.members){
 			if(item.ID == curSelected)
 				item.animation.play('on');
 			else
